@@ -118,7 +118,7 @@
 * [Magento 2 PayPal Multi Currency](https://meetanshi.com/magento-2-paypal-multi-currency.html)
 * [Magento 2 PayPal Website Payments Pro](https://meetanshi.com/magento-2-paypal-website-payments-pro.html)
 * [Magento 2 Paystack Payment Gateway](https://meetanshi.com/magento-2-paystack-payment-gateway.html)
-* [Magento 2 PayTrace Payment Gateway(https://meetanshi.com/magento-2-paytrace-payment-gateway.html)
+* [Magento 2 PayTrace Payment Gateway](https://meetanshi.com/magento-2-paytrace-payment-gateway.html)
 * [Magento 2 PDF Catalog](https://meetanshi.com/magento-2-pdf-catalog.html)
 * [Magento 2 Pin Payments](https://meetanshi.com/magento-2-pin-payments.html)
 * [Magento 2 Popup](https://meetanshi.com/magento-2-popup.html)
